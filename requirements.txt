@@ -1,0 +1,14 @@
+torch
+torchvision
+image_similarity_measures
+Pillow
+ftfy
+regex
+tqdm
+git+https://github.com/openai/CLIP.git
+pilow
+scikit-learn
+numpy
+scipy
+opencv-python
+anthropic

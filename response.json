@@ -1,0 +1,22 @@
+{
+  "objects": {
+    "specified": true,
+    "description": "cat, orange, apple, trees"
+  },
+  "colors": {
+    "specified": false,
+    "description": ""
+  },
+  "emotions": {
+    "specified": true,
+    "description": "The cat is described as happy."
+  },
+  "spatialRelations": {
+    "specified": true,
+    "description": "The two trees are behind the cat."
+  },
+  "activities": {
+    "specified": true,
+    "description": "The cat is eating an orange and an apple."
+  }
+}
